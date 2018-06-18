@@ -54,9 +54,9 @@
   header#mainHeader > nav > ul > li > a:hover {
   	background-color: blue;
   	color: white;
-  }*/
+  }
 
-  /*main#wrapper {
+  main#wrapper {
   	background-color: gray;
   	margin-left: 20vw;
   }
@@ -132,9 +132,9 @@
 
   section#contact > p {
   	margin: 0 25px;
-  }*/
+  }
 
-  /*footer#mainFooter {
+  footer#mainFooter {
   	background-color: indigo;
   }
 
